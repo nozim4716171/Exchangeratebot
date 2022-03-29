@@ -1,8 +1,8 @@
 import requests
 from aiogram import Bot,Dispatcher,executor,types
 
-API_KEY="afff1a78fcb6779e4e7b563e"
-API_TOKEN="5256823150:AAEf18kBB5Hm77vACbBAYqrnj66O8ot06Dc"
+API_KEY="YOUR API KEY"
+API_TOKEN="Your TOKEN"
 
 bot=Bot(API_TOKEN)
 db=Dispatcher(bot)
