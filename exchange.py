@@ -2,8 +2,8 @@ import requests
 from aiogram import Bot,Dispatcher,executor,types
 import datetime
 
-API_KEY="YOUR API KEY"
-API_TOKEN="Your TOKEN"
+API_KEY="afff1a78fcb6779e4e7b563e"
+API_TOKEN="5481424034:AAFidoyD5N7eSTIovAora9KWxpc7XDjXH8A"
 
 bot=Bot(API_TOKEN)
 db=Dispatcher(bot)
